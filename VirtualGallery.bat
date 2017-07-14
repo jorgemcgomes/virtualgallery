@@ -1,0 +1,1 @@
+java -classpath "bin/;lib/jar/*" -Xmx512m -Djava.library.path="lib/bin/" gui.VirtualGallery
